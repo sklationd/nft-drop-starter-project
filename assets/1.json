@@ -1,11 +1,11 @@
 {
-    "name": "cat2",
+    "name": "cat1",
     "symbol": "CAT",
-    "image": "0.png",
+    "image": "1.png",
     "properties": {
         "files": [
             {
-                "uri": "0.png",
+                "uri": "1.png",
                 "type": "image/png"
             }
         ],
