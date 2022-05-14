@@ -1,0 +1,29 @@
+{
+    "program": {
+        "uuid": "9C37zW",
+        "candyMachine": "9C37zWQC1eDz5dWBMnG8jxo3o6Yv7ko2HZDF75o93jeN",
+        "collection": "AKMap8jCQv6cMj89Dzg2y7Pf53VWvPbBLssk35pds8Yg"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/U7iDYb7nuh4HOiYn8CAi9-OQ_zeWpJMyi76vLNAnbVM",
+            "name": "cat0",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "1": {
+            "link": "https://arweave.net/11uKzkib-zTkh5ApOvbLREoUE0KAiKhEnRY2S3Ib8U8",
+            "name": "cat2",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "2": {
+            "link": "https://arweave.net/rosvZW0msTbVQO4HHwq4xzGT8dowE-4UevI4xYHuzqQ",
+            "name": "cat1",
+            "onChain": true,
+            "verifyRun": true
+        }
+    },
+    "env": "devnet",
+    "cacheName": "temp"
+}
